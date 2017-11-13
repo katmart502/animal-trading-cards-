@@ -1,0 +1,20 @@
+/* add your CSS here */
+img {
+	width: 300px;
+
+}
+
+p { 
+	font-style: italic;
+
+}
+
+
+ li {
+	font-weight: bold;
+}
+h3,img, li
+{
+	border: solid;
+	padding: 20px;
+}
